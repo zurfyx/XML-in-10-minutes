@@ -1,5 +1,13 @@
 # XML DTD XSD XSL in 10 minutes
 
+## Table of contents
+
+- [Introduction](#introduction)
+- [XML](#xml-1)
+- [DTD](#dtd-1)
+- [XSD](#xsd-1)
+- [XSL](#xsl-1)
+
 ## Introduction
 
 ### XML
