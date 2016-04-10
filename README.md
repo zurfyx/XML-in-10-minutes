@@ -415,7 +415,7 @@ books.xsl
 </xsl:stylesheet>
 ```
 
-![XSL output on browser](https://github.com/zurfyx/XML-in-10-minutes/branch/assets/books_xsl.png)
+![XSL output on browser](https://raw.githubusercontent.com/zurfyx/XML-in-10-minutes/master/assets/books_xsl.png)
 
 ### Filter
 
