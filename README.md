@@ -319,6 +319,7 @@ books.xsd
           <xs:sequence>
             <xs:element name="name" type="xs:string" />
             <xs:element name="age" type="xs:integer" />
+          </xs:sequence>
         </xs:complexType>
     </xs:sequence>
   </xs:complexType>
