@@ -207,7 +207,7 @@ books.dtd
 
 <!ELEMENT book (name, publish_date, author)>
   <!ATTLIST book id CDATA #REQUIRED>
-  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT title (#PCDATA)>
   <!ELEMENT publish_data (#PCDATA)>
   <!ELEMENT author (name, age)>
     <!ELEMENT name (#PCDATA)>
@@ -328,8 +328,8 @@ books.xsd
 
 ### Terminology
 
-**xs:element**: xml element
-**xs:complexType**: contains other elements
+**xs:element**: xml element<br>
+**xs:complexType**: contains other elements<br>
 **xs:sequence**: elements must appear in a sequence
 
 ### Data types
